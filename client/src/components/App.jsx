@@ -2,7 +2,7 @@ import React from 'react';
 import AddMovie from './AddMovie.jsx';
 //import './App.css';
 import SearchBar from './SearchBar.jsx';
-
+//add
 
 
 const movies = [
@@ -11,6 +11,7 @@ const movies = [
   {title: 'The Grey'},
   {title: 'Sunshine'},
   {title: 'Ex Machina'},
+  {title: 'AI'}
 ];
 
 class App extends React.Component  {
