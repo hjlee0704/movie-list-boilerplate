@@ -11,7 +11,8 @@ const movies = [
   {title: 'The Grey'},
   {title: 'Sunshine'},
   {title: 'Ex Machina'},
-  {title: 'AI'}
+  {title: 'AI'},
+  {title: 'Inception'},
 ];
 
 class App extends React.Component  {
